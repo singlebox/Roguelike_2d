@@ -1,0 +1,4 @@
+repository "Roguelike_2d@awzsd129@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
